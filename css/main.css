@@ -949,7 +949,9 @@ footer p {
   .bball h2 {
     margin-left: 12.7%;
   }
-  
+  .desktop-only {
+    display: unset;
+  }
   .bball__list li {
     padding-left: 0;
   }
@@ -985,7 +987,7 @@ footer p {
     font-size: 1.1em;
     margin-left: 16.8%;
     margin-top: 0.9em;
-    width: 33%;
+    width: 34%;
     line-height: 1.4;
     letter-spacing: 0.9px;
   }
